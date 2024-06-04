@@ -16,3 +16,11 @@ For Lab 2 I found it very useful for the assignments. I completed the lab a long
 ### CSS
 
 For Lab 3 I found this one more difficult than the others. The videos were very helpful but I found myself struggling with the last two videos especially. I took a web development class a long time ago so this is somewhat familiar thankfully
+
+### Flexbox
+
+For Lab 4 I found it pretty straight forward and easy. I don't believe I've worked with them before but I found it quite simple to understand.
+
+### Grids
+
+For Lab 5 I also found this lab simple and pretty easy. I think it's very useful to know this information but I found it somewhat similar to the last lab about flexbox. CSS is starting to make more sense the more I work on these labs.
