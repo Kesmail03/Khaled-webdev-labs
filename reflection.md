@@ -32,3 +32,7 @@ For Lab 6 I used the videos. I found them very useful. I don't think there was a
 ### Javascript
 
 For Lab 7 I used the videos to complete it. I completed this lab before homework 3 but I forgot to commit it. The exercises were very helpful especially for the homework. I don't think there was anything I wished to be explained better. I don't think there were any other exercises that would've helped me.
+
+### Jquery
+
+For 8 I used the videos to complete it. The exercises were helpful but I feel like I need to review this topic more for it to really make sense to me. I don't think there was anything I wished to be explained better. I don't think there were any other exercises that would've helped me.
